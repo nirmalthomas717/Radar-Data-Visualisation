@@ -8,4 +8,8 @@ This code is for changing the length of the bar graph based on a reference value
 These contains the expression in js format. Please note that layers mentioned in the expression needs to be named exactly the same or 
 the script needs to be changed according the layer name.
 
-Bar Graph Javascript
+Bar Graph Color Javascript
+This code is for changing the color of the bar graph based on the value ranges.
+
+Bar Graph Rotation Javascript
+This code is for rotating the bar graph based on the value ranges.
